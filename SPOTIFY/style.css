@@ -1,0 +1,131 @@
+*{
+    margin: 0%;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(0, 0, 8);
+    color:white;
+    font-family: sans-serif;
+}
+.left_sidebar {
+    height: 100%;
+    width: 350px;
+    position: fixed;
+    background-color: black;
+    text-align: left;
+    text-decoration: solid;
+    left: 0px;
+    top: 0px;
+}
+#left_sidebar_1 {
+    padding: 20px;
+}
+#left_sidebar_2{
+    padding:20px;
+}
+#left_sidebar_3{
+    padding:20px;
+}
+#left_sidebar_4{
+    padding:20px;
+}
+.home{
+    height: 100%;
+    position: fixed;
+    width: 100%;
+    left: 300px;
+    padding-left: 30px;
+    background: rgb(18,18,18);
+    background: linear-gradient(90deg, rgb(15, 15, 15) 0%, rgb(34, 33, 33) 48%, rgb(41, 33, 33) 100%); 
+}
+home .user{
+    top: 50px;
+    right: 40px;
+    position: fixed;
+    right: 80px;
+    top: 30px;
+}
+.sec1{
+    height:250px;
+}
+#section1{
+    display: inline-block;
+    padding: 10px;
+    width: 350px;
+    background-color: #2c2b2b;
+    border-radius: 7px;
+    margin: 5px;
+}
+#section1_neffex{
+    display: inline-block;
+    padding: 10px;
+    width:350px;
+    background-color: #2c2b2b;
+    border-radius:7px ;
+    margin: 5px;
+}
+#section1_kda{
+    display: inline-block;
+    padding: 10px;
+    width: 350px;
+    background-color: #2c2b2b;
+    border-radius: 7px;
+    margin:5px;
+}
+#section1_liked{
+    display: inline-block;
+    padding: 10px;
+    width: 350px;
+    background-color: #2c2b2b;
+    border-radius: 7px;
+    margin:5px;
+}
+#section1_dance{
+    display: inline-block;
+    padding: 10px;
+    width: 350px;
+    background-color: #2c2b2b;
+    border-radius: 7px;
+    margin:5px;
+}
+footer{
+    background-color: #2c2b2b;
+    display: block;
+    position: fixed;
+    bottom: 1px;
+    left: 2px;
+    height: 100px;
+    width: 50%;
+}
+footer img{
+    height: 80px;
+    position: fixed;
+    right: 100px;
+    bottom: 40px;
+}
+footer img.box{
+    left:10px;
+}
+.playingnow{
+    position: fixed;
+    bottom: 70px;
+    left: 50px;
+}
+#logo{
+    height:100px;
+    width:100px;
+   
+}
+#left_sidebar_i3{
+    height:70px;
+    width:70px;
+}
+#left_sidebar_i2{
+    height:50px;
+    width:50px;
+}
+#left_sidebar_i5{
+    height:30px;
+    width:30px;
+}
